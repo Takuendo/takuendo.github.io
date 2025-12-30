@@ -18,7 +18,7 @@ email:
 description: "PhD student in Mechanical Engineering at Technical University of Munich. My research focuses on data-driven aerodynamics."
 twitter_username: username
 github_username: "takuendo"
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
