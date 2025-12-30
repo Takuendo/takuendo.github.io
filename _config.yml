@@ -55,37 +55,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Takumi Endo"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student, Technical University of Munich"
+  name: "Takumi Endo"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "PhD student, Technical University of Munich"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/takumi-endo-about/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-Google-Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.co.jp/citations?user=QqmHslIAAAAJ&hl=ja"
     - label: "ORCID"
-      icon: "fab fa-fw fa-ORCID"
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0009-0007-2227-5848"
-      - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/takuendo"
 
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/takumi-endo-about/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-Google-Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.co.jp/citations?user=QqmHslIAAAAJ&hl=ja"
     - label: "ORCID"
-      icon: "fab fa-fw fa-ORCID"
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0009-0007-2227-5848"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/takuendo"
 
 defaults:
   # _posts
