@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Takumi Endo
 email:
-description: >- # this means to ignore newlines until "baseurl:"
+description: PhD student in Mechanical Engineering at Technical University of Munich. My research focuses on Data-driven Aerodynamics. # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: takuendo
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -58,34 +58,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Takumi Endo"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD student, Technical University of Munich"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-LinkedIn"
+      url: "https://www.linkedin.com/in/takumi-endo-about/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-Google-Scholar"
+      url: "https://scholar.google.co.jp/citations?user=QqmHslIAAAAJ&hl=ja"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-ORCID"
+      url: "https://orcid.org/0009-0007-2227-5848"
+      - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-LinkedIn"
+      url: "https://www.linkedin.com/in/takumi-endo-about/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-Google-Scholar"
+      url: "https://scholar.google.co.jp/citations?user=QqmHslIAAAAJ&hl=ja"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-ORCID"
+      url: "https://orcid.org/0009-0007-2227-5848"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
