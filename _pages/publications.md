@@ -14,6 +14,15 @@ author_profile: true
 
 ---
 
+## Peer-reviewed Conference Proceedings
+- **Sep. 2025**  
+  **Takumi Endo**; Ming Liu; Zhuchen Liu; Yusuke Yugeta; Chisachi Kato; Yosuke Hasegawa, 
+  *“Development of GANs-based Wall Model for Large Eddy Simulation of Wall-Bounded Flow”*,  
+  **15th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements (ETMM-15)**,  
+  Oral Presentation *(peer reviewed)*.
+
+---
+
 ## Conference Presentations
 
 - **Dec. 2025, Tokyo, Japan**  
