@@ -12,7 +12,7 @@ My primary research focuses on developing wall models for Large Eddy Simulation 
 
 In addition to my academic pursuits, I have gained practical experience in aerodynamic development at TotalSim Japan in Japan and Polimi Motorcycle Factory in Italy, contributing to the aerodynamic development of racing cars and motorcycles using computational fluid dynamics.
 
-A brief summary is shown here. For full details, see my [CV](/_data/TakumiEndo_20251231/).
+A brief summary is shown here. For full details, see my [CV](/_assets/TakumiEndo_20251231/).
 
 ## Education
 - **PhD, Aerodynamics and Fluid dynamics**, Technical University of Munich (TUM), January 2026 – present
