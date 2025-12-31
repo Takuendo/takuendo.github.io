@@ -4,9 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Conference Presentation
 ---
 
 I am pleased to share two recent oral presentations based on my master’s research on integrating machine learning with fluid dynamics!!
@@ -22,3 +20,17 @@ I was honored to receive the Outstanding Presentation Award at 37th Inter-Instit
 Many thanks to my collaborators and supervisors for their continued guidance and support.
 
 #FluidDynamics #CFD #MachineLearning #LES #WallModeling #GAN
+
+<figure>
+  <img src="/assets/images/posts/CFD38andTSFD40/1.jpeg" alt="the 40th IIS-TSFD Symposium ">
+  <figcaption>
+    Oral presentation at the 40th IIS-TSFD Symposium (Tokyo, 2024)
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/images/posts/CFD38andTSFD40/2.jpeg" alt="Outstanding Presentation Award">
+  <figcaption>
+    Outstanding Presentation Award at the 40th IIS-TSFD Symposium  (Tokyo, 2024)
+  </figcaption>
+</figure>
