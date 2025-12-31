@@ -1,3 +1,14 @@
+---
+title: "Attended two domestic conferences and obtained Outstanding Presentation Award!!"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+
 I am pleased to share two recent oral presentations based on my master’s research on integrating machine learning with fluid dynamics!!
 
 In December 2024, I presented at the 38th CFD Symposium in Tokyo:
