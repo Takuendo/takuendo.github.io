@@ -29,7 +29,7 @@ Wishing everyone the very best in their academic journeys — I look forward to 
 #UTokyo #GMSI #WINGSCFS
 
 <figure>
-  <img src="/assets/posts/SummerCamp2025/1.jpeg" alt="Best Innovation Prize">
+  <img src="/assets/SummerCamp2025/1.jpeg" alt="Best Innovation Prize">
   <figcaption>
     Best Innovation Prize (Yamanashi, 2024)
   </figcaption>
