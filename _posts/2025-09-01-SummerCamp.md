@@ -1,5 +1,5 @@
 ---
-title: "Attended the summer camp and obtained Best Innovation Prize!!"
+title: "Attended Summer Camp and obtained Best Innovation Prize!!"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
