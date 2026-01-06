@@ -5,5 +5,5 @@ layout: single
 author_profile: true
 ---
 
-- **Download:** [CV (PDF)](/assets/TakumiEndo_20251231.pdf)
-- **Last updated:** 2025-12-31
+- **Download:** [CV (PDF)](/assets/TakumiEndo_20260106.pdf)
+- **Last updated:** 2026-01-06
