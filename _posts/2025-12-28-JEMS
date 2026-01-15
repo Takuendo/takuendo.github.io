@@ -1,0 +1,22 @@
+---
+title: "Journal paper was published!!"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Publications
+---
+
+I am very happy to share that my first journal paper has been published 🎉
+
+Title: Performance Analysis of Interacting Rigid Wind Sails and Rotor Sails by Kriging Surrogate Model
+📄 https://jemsjournal.org/articles/performance-analysis-of-interacting-rigid-wind-sails-and-rotor-sails-by-kriging-surrogate-model/jems.2025.26097
+
+This study examines wind-assisted propulsion as a method to lower CO₂ emissions in the maritime industry. 
+Typically, wind-assisted ships use only one type of wind propulsion device. However, each device performs well in certain wind directions and poorly in others, making consistent wind power use challenging. 
+
+To address this issue, we investigated how combining two different wind propulsion devices can reduce fuel consumption. The analysis used a CFD-based surrogate model along with a ship system model, enabling us to assess the effectiveness of this hybrid setup quantitatively. 
+
+This research started as a coursework project during my master’s program at 東京大学 and was later expanded into a journal paper. 
+I am very grateful to Cem GUZELBULUT for his excellent supervision and valuable contributions to this work. Thank you very much.
+
