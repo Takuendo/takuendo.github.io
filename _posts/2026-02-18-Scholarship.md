@@ -1,5 +1,5 @@
 ---
-title: "Attended two domestic conferences and obtained Outstanding Presentation Award!!"
+title: "Selected for the Studienstiftung Scholarship !!"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
