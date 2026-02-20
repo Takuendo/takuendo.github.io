@@ -14,7 +14,7 @@ This prestigious scholarship supports outstanding doctoral researchers in German
 
 With this support, I will be able to fully focus on my doctoral research in fluid dynamics and machine learning, while also engaging in interdisciplinary exchange within the Studienstiftung network.
 
-I am deeply grateful to my supervisors, collaborators, and mentors for their guidance and support throughout the application process.
+I am deeply grateful to my supervisor, and collaborators for their guidance and support throughout the application process.
 
 I look forward to continuing my research and making the most of this opportunity.
 
