@@ -1,5 +1,5 @@
 ---
-title: "Selected for the Studienstiftung Scholarship !!"
+title: "Selected for the scholarship of Studienstiftung des deutschen Volkes !!"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
