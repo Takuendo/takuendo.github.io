@@ -25,6 +25,7 @@ A brief summary is shown here. For full details, see my [CV](/cv/).
 
 ## Awards
 - **Doctoral Scholarship**, Studienstiftung des deutschen Volkes (German National Academic Foundation), March 2026 – February 2029 (with possible extension)
+- **Half-Exemption of JASSO Scholarship Repayment**, Japan Student Services Organization (JASSO), March 2025
 - **Outstanding Presentation Award**, 40th IIS TSFD symposium & 37th Inter-Institutional Joint Serminar on Turbulent Flow Control, March 2025
 - **Continental UTokyo-IIS Global Engineering Fellowship**, Continental Japan and the Institute of Industrial Science, the University of Tokyo, October 2023
 - **Go Global Gateway**, The University of Tokyo, March 2023
