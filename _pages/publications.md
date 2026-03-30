@@ -25,7 +25,7 @@ author_profile: true
 
 ## Conference Presentations
 
-- **Dec. 2025, Tokyo, Japan**  
+- **Dec. 2025, Kita-kyushu, Japan**  
   **Takumi Endo**; Ming Liu; Chisachi Kato; Yosuke Hasegawa,  
   *“Application of GAN to Wall-Modeled LES Using Local Flow Information and Its Performance Evaluation”*,  
   **39th CFD Symposium**, Oral Presentation.
