@@ -21,7 +21,7 @@ A brief summary is shown here. For full details, see my [CV](/cv/).
 - **BEng, Mechanical Engineering**, The University of Tokyo, April 2019 – March 2023  
 
 ## Work Experience
-- **Part time CFD Engineer**, TotalSim Japan, October 2022 – present  
+- **Part time CFD Engineer**, TotalSim Japan, October 2022 – February 2026  
 
 ## Awards
 - **Doctoral Scholarship**, Studienstiftung des deutschen Volkes (German National Academic Foundation), March 2026 – February 2029 (with possible extension)
