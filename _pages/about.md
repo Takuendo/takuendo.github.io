@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-I am a PhD student in the Chair of Aerodynamics and Fluis Dynamics at the Technical University of Munich with a strong foundation in both academic research and practical engineering.
+I am a PhD student in the Chair of Aerodynamics and Fluid Dynamics at the Technical University of Munich with a strong foundation in both academic research and practical engineering.
 
 My primary research focuses on developing wall models for Large Eddy Simulation using machine learning to achieve low calculation costs for vehicle aerodynamics with high accuracy. As part of this work, I have built custom code that integrates machine learning models into OpenFOAM framework. I have presented my research at several domestic and international conferences.
 
