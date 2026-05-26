@@ -11,6 +11,19 @@ author_profile: true
   "Performance Analysis of Interacting Rigid Wind Sails and Rotor Sails by Kriging Surrogate Model,"
   *Journal of ETA Maritime Science*, Dec. 2025.
 
+## Conference Proceedings
+
+- **Takumi Endo**, Ming Liu, Chisachi Kato, Yosuke Hasegawa,
+  "Development of a GANs-Based Wall Model for Large Eddy Simulation Using Local Flow Information,"
+  in *Proceedings of the 36th Parallel CFD International Conference (ParCFD 2025)*,
+  Mérida, Mexico, Nov. 2025. *(in press)*
+
+- **Takumi Endo**, Ming Liu, Zhuchen Liu, Yusuke Yugeta, Chisachi Kato, Yosuke Hasegawa,
+  "Development of GANs-based Wall Model for Large Eddy Simulation of Wall-Bounded Flow,"
+  in *Proceedings of the 15th ERCOFTAC Symposium on Engineering Turbulence Modelling
+  and Measurements (ETMM-15)*, ed. S. Hickel, Dubrovnik, Croatia, Sep. 22–24, 2025.
+  [https://doi.org/10.5281/zenodo.17280519](https://doi.org/10.5281/zenodo.17280519)
+
 ## Conference Presentations
 
 - **Takumi Endo**, Ming Liu, Chisachi Kato, Yosuke Hasegawa,
@@ -20,14 +33,6 @@ author_profile: true
 - Ayato Hirayama, Sho Watanabe, Yusuke Yugeta, **Takumi Endo**, Yosuke Hasegawa,
   "Shape Optimization of Flow Around a Two-Dimensional Cylinder Using a Low-Resolution CFD and PINN,"
   *39th CFD Symposium*, Kita-kyushu, Japan, Dec. 2025.
-
-- **Takumi Endo**, Ming Liu, Chisachi Kato, Yosuke Hasegawa,
-  "Development of a GANs-Based Wall Model for Large Eddy Simulation Using Local Flow Information,"
-  *36th Parallel CFD International Conference (ParCFD36)*, Mérida, Mexico, Nov. 2025. *(peer reviewed)*
-
-- **Takumi Endo**, Ming Liu, Zhuchen Liu, Yusuke Yugeta, Chisachi Kato, Yosuke Hasegawa,
-  "Development of GANs-based Wall Model for Large Eddy Simulation of Wall-Bounded Flow,"
-  *15th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements (ETMM-15)*, Dubrovnik, Croatia, Sep. 2025. *(peer reviewed)*
 
 - Ayato Hirayama, Sho Watanabe, Yusuke Yugeta, **Takumi Endo**, Yosuke Hasegawa,
   "Shape optimization of flow around a two-dimensional body using a PINN with boundary conditions imposed as hard constraints,"
