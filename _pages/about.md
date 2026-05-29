@@ -21,7 +21,13 @@ A brief summary is shown here. For full details, see my [CV](/cv/).
 - **BEng, Mechanical Engineering**, The University of Tokyo, April 2019 – March 2023  
 
 ## Work Experience
-- **Part time CFD Engineer**, TotalSim Japan, October 2022 – February 2026  
+- **Part time CFD Engineer**, TotalSim Japan, October 2022 – February 2026
+
+## Grants & Computing Resources
+- **Computing Time Grant**, SuperMUC-NG (Leibniz Supercomputing Centre, LRZ),
+  GCS Project: *Development of a Wall Model for Large Eddy Simulation with Generative
+  Adversarial Networks for Applications in Vehicle Aerodynamics*,
+  0.50 million CPU core-h + 900 GPU-h, 2026–2027 (PI: T. Indinger)
 
 ## Awards
 - **Doctoral Scholarship**, Studienstiftung des deutschen Volkes (German National Academic Foundation), March 2026 – February 2029 (with possible extension)
