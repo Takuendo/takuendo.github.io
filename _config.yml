@@ -58,7 +58,7 @@ author:
   name: "Takumi Endo"
   email: "takumi.endo@tum.de"
   avatar: "/assets/images/IMG_5730.jpg"
-  bio: "PhD student at Technical University of Munich, Doctoral fellow of Studienstiftung des deutschen Volkes"
+  bio: "PhD student at Technical University of Munich, <br> Doctoral fellow of Studienstiftung des deutschen Volkes"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
