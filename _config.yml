@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Takumi Endo"
 email: "takumi.endo@tum.de"
-description: "PhD student in Mechanical Engineering at Technical University of Munich. My research focuses on data-driven aerodynamics."
+description: "PhD student at Technical University of Munich. My research focuses on data-driven aerodynamics."
 twitter_username: username
 github_username: "takuendo"
 minimal_mistakes_skin: dark
@@ -58,7 +58,7 @@ author:
   name: "Takumi Endo"
   email: "takumi.endo@tum.de"
   avatar: "/assets/images/IMG_5730.jpg"
-  bio: "PhD student, Technical University of Munich"
+  bio: "PhD student at Technical University of Munich, Doctoral fellow of Studienstiftung des deutschen Volkes"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
