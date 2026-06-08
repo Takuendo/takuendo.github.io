@@ -16,7 +16,7 @@ author_profile: true
 - **Takumi Endo**, Ming Liu, Chisachi Kato, Yosuke Hasegawa,
   "Development of a GANs-Based Wall Model for Large Eddy Simulation Using Local Flow Information,"
   in *Proceedings of the 36th Parallel CFD International Conference (ParCFD 2025)*,
-  Mérida, Mexico, Nov. 2025. *(in press)*
+  Mérida, Mexico, Nov. 23–25, 2025. *(in press)*
 
 - **Takumi Endo**, Ming Liu, Zhuchen Liu, Yusuke Yugeta, Chisachi Kato, Yosuke Hasegawa,
   "Development of GANs-based Wall Model for Large Eddy Simulation of Wall-Bounded Flow,"
