@@ -16,7 +16,7 @@ A brief summary is shown here. For full details, see my [CV](/cv/).
 
 ## Education
 - **PhD, Aerodynamics and Fluid Mechanics**, Technical University of Munich (TUM), January 2026 – present
-- **PhD, Mechanical Engineering**, The University of Tokyo (Utokyo), April 2025 – December 2025  
+- **PhD, Mechanical Engineering**, The University of Tokyo, April 2025 – December 2025  
 - **MEng, Mechanical Engineering**, The University of Tokyo, April 2023 – March 2025  
 - **BEng, Mechanical Engineering**, The University of Tokyo, April 2019 – March 2023  
 
