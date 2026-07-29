@@ -8,7 +8,7 @@ author_profile: true
 
 I am a PhD student in the Chair of Aerodynamics and Fluid Mechanics at the Technical University of Munich with a strong foundation in both academic research and practical engineering.
 
-My primary research focuses on developing wall models for Large Eddy Simulation using machine learning to achieve low calculation costs for vehicle aerodynamics with high accuracy. As part of this work, I have built custom code that integrates machine learning models into OpenFOAM framework. I have presented my research at several domestic and international conferences.
+My primary research addresses the trade-off between computational cost and accuracy in vehicle aerodynamics simulations, using machine learning to tackle this challenge. Using the Ahmed body as a benchmark, I develop wall models for Large Eddy Simulation to reduce computational cost while maintaining high accuracy, and I also work on super-resolution techniques to reconstruct high-fidelity flow fields from low-cost, low-resolution data. As part of this work, I have built custom code that integrates machine learning models into the OpenFOAM framework. I have presented my research at several domestic and international conferences.
 
 In addition to my academic pursuits, I have gained practical experience in aerodynamic development at TotalSim Japan in Japan and Polimi Motorcycle Factory in Italy, contributing to the aerodynamic development of racing cars and motorcycles using computational fluid dynamics.
 
