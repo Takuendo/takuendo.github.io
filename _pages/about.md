@@ -27,7 +27,7 @@ A brief summary is shown here. For full details, see my [CV](/cv/).
 - **Computing Time Grant**, SuperMUC-NG (Leibniz Supercomputing Centre, LRZ),
   GCS Project: *Development of a Wall Model for Large Eddy Simulation with Generative
   Adversarial Networks for Applications in Vehicle Aerodynamics*,
-  0.50 million CPU core-h + 900 GPU-h, 2026–2027 (PI: T. Indinger)
+  0.80 million CPU core-h + 900 GPU-h, 2026–2027 (PI: T. Indinger)
 
 ## Awards
 - **Doctoral Scholarship**, Studienstiftung des deutschen Volkes (German National Academic Foundation), March 2026 – February 2029 (with possible extension)
