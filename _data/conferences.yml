@@ -1,3 +1,36 @@
+# Conference / travel history shown on /conference-map/
+#
+# To add a new entry, append a block below. Nothing else needs to change.
+#
+#   id        unique slug (also usable as a deep link: /conference-map/#etmm15)
+#   name      short name shown as the heading
+#   title     full official name (optional)
+#   city, country, lat, lon   location (entries with the same lat/lon share one dot)
+#   year      used for sorting and the timeline
+#   date      free text, e.g. "September 2025"
+#   summary   one or two sentences shown in the card (optional)
+#   photos    list of src / alt / caption (files that already exist in /assets/; optional)
+#   post      file name of the blog post in _posts/ WITHOUT ".md"
+#             (resolved to the correct URL automatically, so permalinks can change)
+#
+# Template:
+#
+# - id: example27
+#   name: "Example27"
+#   title: "27th Example Conference"
+#   city: "Vienna"
+#   country: "Austria"
+#   lat: 48.2082
+#   lon: 16.3738
+#   year: 2027
+#   date: "April 2027"
+#   summary: "Oral presentation on ..."
+#   photos:
+#     - src: "/assets/Example27/1.jpeg"
+#       alt: "Oral presentation at Example27"
+#       caption: "Oral presentation at Example27"
+#   post: "2027-04-10-Example27"
+
 - id: etmm15
   name: "ETMM15"
   title: "15th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements"
@@ -7,15 +40,91 @@
   lon: 18.0944
   year: 2025
   date: "September 2025"
-
+  summary: "My first international conference. Oral presentation on a GAN-based wall model for large eddy simulation of wall-bounded flow."
   photos:
     - src: "/assets/ETMM15/1.jpeg"
       alt: "Oral presentation at ETMM15"
       caption: "Oral presentation at ETMM15"
-
     - src: "/assets/ETMM15/2.jpeg"
       alt: "Old town tour in Dubrovnik"
       caption: "Old town tour in Dubrovnik"
+  post: "2025-10-01-ETMM15"
 
-  post: "/blog/attended-etmm15-in-dubrovnik-croatia/"
+- id: parcfd36
+  name: "ParCFD36"
+  title: "36th Parallel CFD International Conference 2025"
+  city: "Mérida"
+  country: "Mexico"
+  lat: 20.9674
+  lon: -89.5926
+  year: 2025
+  date: "November 2025"
+  summary: "Oral presentation on GAN-based wall modeling, with valuable discussions with the HPC community."
+  photos:
+    - src: "/assets/ParCFD36/1.jpeg"
+      alt: "Oral presentation at ParCFD36"
+      caption: "Oral presentation at ParCFD36"
+  post: "2025-12-01-ParCFD36"
 
+- id: cfd39
+  name: "CFD39"
+  title: "39th CFD Symposium"
+  city: "Kitakyushu"
+  country: "Japan"
+  lat: 33.8834
+  lon: 130.8752
+  year: 2025
+  date: "December 2025"
+  summary: "Oral presentation on wall-modeled LES using GANs with local flow information."
+  photos:
+    - src: "/assets/CFD39/1.jpg"
+      alt: "Oral presentation at the 39th CFD Symposium"
+      caption: "Oral presentation at the 39th CFD Symposium"
+  post: "2025-12-25-CFD39"
+
+- id: tsfd40
+  name: "IIS-TSFD40"
+  title: "40th IIS-TSFD Symposium & 37th Inter-Institutional Joint Seminar on Turbulent Flow Control"
+  city: "Tokyo"
+  country: "Japan"
+  lat: 35.6762
+  lon: 139.6503
+  year: 2025
+  date: "March 2025"
+  summary: "Oral presentation on GANs for wall models in LES. Received the Outstanding Presentation Award."
+  photos:
+    - src: "/assets/CFD38andTSFD40/1.jpeg"
+      alt: "Oral presentation at the 40th IIS-TSFD Symposium"
+      caption: "Oral presentation at the 40th IIS-TSFD Symposium"
+    - src: "/assets/CFD38andTSFD40/2.jpeg"
+      alt: "Outstanding Presentation Award"
+      caption: "Outstanding Presentation Award"
+  post: "2025-03-31-CFD38andTSFD40"
+
+- id: cfd38
+  name: "CFD38"
+  title: "38th CFD Symposium"
+  city: "Tokyo"
+  country: "Japan"
+  lat: 35.6762
+  lon: 139.6503
+  year: 2024
+  date: "December 2024"
+  summary: "Oral presentation on the development of a wall model for LES using generative adversarial networks."
+  post: "2025-03-31-CFD38andTSFD40"
+
+- id: summercamp2025
+  name: "GMSI Summer Camp"
+  title: "GMSI Summer Camp 2025 (The University of Tokyo)"
+  city: "Fujiyoshida"
+  country: "Japan"
+  lat: 35.4878
+  lon: 138.8075
+  year: 2025
+  date: "July 2025"
+  summary: "Team project on a smart physical-separation device for plastic recycling. Awarded the Best Innovation Prize."
+  photos:
+    - src: "/assets/SummerCamp2025/1.jpeg"
+      alt: "Best Innovation Prize"
+      caption: "Best Innovation Prize"
+  post: "2025-09-01-SummerCamp"
