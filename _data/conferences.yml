@@ -128,3 +128,15 @@
       alt: "Best Innovation Prize"
       caption: "Best Innovation Prize"
   post: "2025-09-01-SummerCamp"
+
+- id: lesworkshop89
+  name: "89th LES workshop"
+  title: "89th LES workshop"
+  city: "Tokyo"
+  country: "Japan"
+  lat: 35.6762
+  lon: 139.6503
+  year: 2026
+  date: "May 2026"
+  summary: "Oral presentation in the LES society online"
+  post: "2026-05-12-LES"
