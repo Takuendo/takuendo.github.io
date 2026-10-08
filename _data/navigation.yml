@@ -5,5 +5,7 @@ main:
     url: /publications/
   - title: "Posts"
     url: /posts/
+  - title: "Conference Map"
+    url: /conference-map/
   - title: " CV"
     url: /cv/
