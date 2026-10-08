@@ -1,0 +1,20 @@
+- id: etmm15
+  name: "ETMM15"
+  title: "15th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements"
+  city: "Dubrovnik"
+  country: "Croatia"
+  lat: 42.6507
+  lon: 18.0944
+  year: 2025
+  date: "September 2025"
+
+  photos:
+    - src: "/assets/ETMM15/1.jpeg"
+      alt: "Oral presentation at ETMM15"
+      caption: "Oral presentation at ETMM15"
+
+    - src: "/assets/ETMM15/2.jpeg"
+      alt: "Old town tour in Dubrovnik"
+      caption: "Old town tour in Dubrovnik"
+
+  post: "/blog/attended-etmm15-in-dubrovnik-croatia/"
