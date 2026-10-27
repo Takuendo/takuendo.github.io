@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 - **Download:** [CV (PDF)](/assets/TakumiEndo_20261027.pdf)
-- **Last updated:** 2026-05-21
+- **Last updated:** October 27th, 2026
