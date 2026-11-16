@@ -6,36 +6,24 @@ categories:
 tags:
   - Activities
 ---
-私は、11月12日から16日にドイツのMagdeburgで開かれたStudienstiftung des deutschen VolkesのHerbstforum für Promovierende
-（英語訳も）に参加しました。
+I attended the Herbstforum für Promovierende (Autumn Forum for Doctoral Researchers) of the Studienstiftung des deutschen Volkes, held in Magdeburg, Germany, from November 12 to 16.
 
-パネルディスカッションやオーラルプレゼンテーションを通して、様々な領域の研究について学ぶことができました。
+Through the panel discussion and the oral presentations, I had the chance to learn about research in a wide range of fields.
 
-交流した皆様ありがとうございました。
-I am pleased to share two recent oral presentations based on my master’s research on integrating machine learning with fluid dynamics!!
+Thank you to everyone I met and talked with.
 
-In December 2024, I presented at the 38th CFD Symposium in Tokyo:
-“Development of Wall Model for Large Eddy Simulation Using Generative Adversarial Networks”
-
-In March 2025, I delivered a talk at the 40th IIS-TSFD Symposium & 37th Inter-Institutional Joint Serminar on Turbulent Flow Control, also in Tokyo:
-“Application of GANs to the Development of Wall Models for LES and Evaluation of Their Predictive Performance”
-
-I was honored to receive the Outstanding Presentation Award at 37th Inter-Institutional Joint Serminar on Turbulent Flow Control.
-
-Many thanks to my collaborators and supervisors for their continued guidance and support.
-
-#FluidDynamics #CFD #MachineLearning #LES #WallModeling #GAN
+#Studienstiftung
 
 <figure>
-  <img src="/assets/CFD38andTSFD40/1.jpeg" alt="口頭発表">
+  <img src="/assets/Studienstiftung_11_2026/S__95739908.jpg" alt="Oral presentation">
   <figcaption>
-    口頭発表
+    Oral presentation
   </figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/CFD38andTSFD40/IMG_7809.jpeg" alt="集合写真">
+  <img src="/assets/Studienstiftung_11_2026/IMG_7809.jpeg" alt="Group photo">
   <figcaption>
-    集合写真
+    Group photo
   </figcaption>
 </figure>
