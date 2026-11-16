@@ -10,7 +10,7 @@ author_profile: true
 - **Takumi Endo**, Cem Guzelbulut,
   "Performance Analysis of Interacting Rigid Wind Sails and Rotor Sails by Kriging Surrogate Model,"
   *Journal of ETA Maritime Science*, Dec. 2025.
-
+  [https://doi.org/10.4274/jems.2025.26097](https://doi.org/10.4274/jems.2025.26097)
 ## Conference Proceedings
 
 - **Takumi Endo**, Ming Liu, Zhuchen Liu, Yusuke Yugeta, Chisachi Kato, Yosuke Hasegawa,
