@@ -24,13 +24,13 @@ A brief summary is shown here. For full details, see my [CV](/cv/).
 - **Part time CFD Engineer**, TotalSim Japan, October 2022 – February 2026
 
 ## Grants & Computing Resources
+- **Doctoral Scholarship**, Studienstiftung des deutschen Volkes (German National Academic Foundation), March 2026 – February 2029 (with possible extension)
 - **Computing Time Grant**, SuperMUC-NG (Leibniz Supercomputing Centre, LRZ),
   GCS Project: *Development of a Wall Model for Large Eddy Simulation with Generative
   Adversarial Networks for Applications in Vehicle Aerodynamics*,
   0.80 million CPU core-h + 900 GPU-h, 2026–2027 (PI: T. Indinger)
 
 ## Awards
-- **Doctoral Scholarship**, Studienstiftung des deutschen Volkes (German National Academic Foundation), March 2026 – February 2029 (with possible extension)
 - **Half-Exemption of JASSO Scholarship Repayment**, Japan Student Services Organization (JASSO), March 2025
 - **Outstanding Presentation Award**, 40th IIS TSFD symposium & 37th Inter-Institutional Joint Serminar on Turbulent Flow Control, March 2025
 - **Continental UTokyo-IIS Global Engineering Fellowship**, Continental Japan and the Institute of Industrial Science, the University of Tokyo, October 2023
