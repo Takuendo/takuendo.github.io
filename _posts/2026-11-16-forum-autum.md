@@ -1,11 +1,12 @@
 ---
-title: "Attended two domestic conferences and obtained Outstanding Presentation Award!!"
+title: "Attended the autumn forum of the Studienstiftung des deutschen Volkes!!"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
   - Conference Presentation
 ---
+Herbstforum für Promovierende
 
 I am pleased to share two recent oral presentations based on my master’s research on integrating machine learning with fluid dynamics!!
 
