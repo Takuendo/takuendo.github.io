@@ -140,3 +140,23 @@
   date: "May 2026"
   summary: "Oral presentation in the LES society online."
   post: "2026-05-12-LES"
+
+- id: autumnforum2026
+  name: "Autumn forum 2026"
+  title: "Autumn forum 2026 of the Studienstiftung des deutschen Volkes"
+  city: "Magdeburg"
+  country: "Germany"
+  lat: 52.128271
+  lon: 11.631475
+  year: 2026
+  date: "November 2026"
+  summary: "Team project on a smart physical-separation device for plastic recycling. Awarded the Best Innovation Prize."
+  photos:
+    - src: "/assets/Studienstiftung_11_2026/S__95739908.jpg"
+      alt: "Oral presentation"
+      caption: "Oral presentation"
+  photos:
+    - src: "/assets/Studienstiftung_11_2026/IMG_7809.jpeg"
+      alt: "Group photo"
+      caption: "Group photo"
+  post: "2026-11-16-forum-autumn"
