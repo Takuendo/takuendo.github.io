@@ -29,6 +29,11 @@ author_profile: true
   "Shape Optimization of Flow Around a Two-Dimensional Cylinder Using a Low-Resolution CFD and PINN,"
   *39th CFD Symposium*, Kita-kyushu, Japan, Dec. 2025.
 
+- **Takumi Endo**, Ming Liu, Chisachi Kato, Yosuke Hasegawa,
+  "Development of a GANs-Based Wall Model for Large Eddy Simulation Using Local Flow Information,"
+  *36th Parallel CFD International Conference (ParCFD 2025)*,
+  Mérida, Mexico, Nov. 23–25, 2025. *(peer reviewed)*
+
 - Ayato Hirayama, Sho Watanabe, Yusuke Yugeta, **Takumi Endo**, Yosuke Hasegawa,
   "Shape optimization of flow around a two-dimensional body using a PINN with boundary conditions imposed as hard constraints,"
   *JSFM Annual Meeting 2025*, Osaka, Japan, Sep. 2025.
