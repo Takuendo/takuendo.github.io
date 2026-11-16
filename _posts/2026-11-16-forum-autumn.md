@@ -4,10 +4,14 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Conference Presentation
+  - Activities
 ---
-Herbstforum für Promovierende
+私は、11月12日から16日にドイツのMagdeburgで開かれたStudienstiftung des deutschen VolkesのHerbstforum für Promovierende
+（英語訳も）に参加しました。
 
+パネルディスカッションやオーラルプレゼンテーションを通して、様々な領域の研究について学ぶことができました。
+
+交流した皆様ありがとうございました。
 I am pleased to share two recent oral presentations based on my master’s research on integrating machine learning with fluid dynamics!!
 
 In December 2024, I presented at the 38th CFD Symposium in Tokyo:
@@ -23,15 +27,15 @@ Many thanks to my collaborators and supervisors for their continued guidance and
 #FluidDynamics #CFD #MachineLearning #LES #WallModeling #GAN
 
 <figure>
-  <img src="/assets/CFD38andTSFD40/1.jpeg" alt="40th IIS-TSFD Symposium ">
+  <img src="/assets/CFD38andTSFD40/1.jpeg" alt="口頭発表">
   <figcaption>
-    Oral presentation at the 40th IIS-TSFD Symposium (Tokyo, 2025)
+    口頭発表
   </figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/CFD38andTSFD40/2.jpeg" alt="Outstanding Presentation Award">
+  <img src="/assets/CFD38andTSFD40/IMG_7809.jpeg" alt="集合写真">
   <figcaption>
-    Outstanding Presentation Award at the 40th IIS-TSFD Symposium  (Tokyo, 2025)
+    集合写真
   </figcaption>
 </figure>
